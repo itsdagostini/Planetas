@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c876d7a36a9e6254c847759668596aab
+guid: 0830fd8b4a64f66439817b16e86b839a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 36
+  spritePixelsToUnits: 18
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,7 +69,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 512
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Los spritesdelpersonaje_0
+      name: Villano Urano_page-0001-Photoroom_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 201.33334
-        width: 91.75
-        height: 100.666664
+        x: 200
+        y: 729
+        width: 500
+        height: 520
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +111,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3e546da63c51a7428c4742b588e9781
-      internalID: 711295310
+      spriteID: 268faf9facb70f642970b2bec62f5f8c
+      internalID: -1302716138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Los spritesdelpersonaje_1
+      name: Villano Urano_page-0001-Photoroom_1
       rect:
         serializedVersion: 2
-        x: 91
-        y: 201.33334
-        width: 91.75
-        height: 100.666664
+        x: 700
+        y: 729
+        width: 500
+        height: 520
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,20 +132,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: edb78907cc56f164782a9108950dbee6
-      internalID: 1369389080
+      spriteID: 3e1a934124350d84ea4301f6d8ab7882
+      internalID: -470455570
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Los spritesdelpersonaje_2
+      name: Villano Urano_page-0001-Photoroom_2
       rect:
         serializedVersion: 2
-        x: 182
-        y: 201.33334
-        width: 91.75
-        height: 100.666664
+        x: 1200
+        y: 729
+        width: 500
+        height: 520
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,20 +153,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63c92fd00322d544682132c326a60890
-      internalID: -1499807342
+      spriteID: 43e80dcfd568c0e42aae92f147fbe92f
+      internalID: 1851041327
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Los spritesdelpersonaje_3
+      name: Villano Urano_page-0001-Photoroom_3
       rect:
         serializedVersion: 2
-        x: 273
-        y: 201.33334
-        width: 91.75
-        height: 100.666664
+        x: 1700
+        y: 729
+        width: 500
+        height: 520
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +174,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e648b5500d06c31469f69e2fab50cc2b
-      internalID: 25262978
+      spriteID: bde44cada0342f046abfb1ea64b04912
+      internalID: 1770688141
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Los spritesdelpersonaje_4
+      name: Villano Urano_page-0001-Photoroom_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 101.333336
-        width: 91.75
-        height: 100.666664
+        x: 200
+        y: 209
+        width: 500
+        height: 520
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,20 +195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22ecdd2c14a3a9347a9a020b2a480200
-      internalID: 777237274
+      spriteID: e734c1e8d091c3542b27833d20e568bb
+      internalID: -1281238981
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Los spritesdelpersonaje_5
+      name: Villano Urano_page-0001-Photoroom_5
       rect:
         serializedVersion: 2
-        x: 91
-        y: 101.333336
-        width: 91.75
-        height: 100.666664
+        x: 700
+        y: 209
+        width: 500
+        height: 520
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,20 +216,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 427efa9494017b545832d1bb909b26fc
-      internalID: -1239071291
+      spriteID: 213fa15d48faa9447ad384295117a611
+      internalID: -934616856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Los spritesdelpersonaje_6
+      name: Villano Urano_page-0001-Photoroom_6
       rect:
         serializedVersion: 2
-        x: 182
-        y: 101.333336
-        width: 91.75
-        height: 100.666664
+        x: 1200
+        y: 209
+        width: 500
+        height: 520
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,20 +237,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 449e4e9dcbf49a642a96b984744579a5
-      internalID: 378272837
+      spriteID: 50ac616daef47b1409642aed491a3546
+      internalID: 1497931303
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Los spritesdelpersonaje_7
+      name: Villano Urano_page-0001-Photoroom_7
       rect:
         serializedVersion: 2
-        x: 273
-        y: 101.333336
-        width: 91.75
-        height: 100.666664
+        x: 1700
+        y: 209
+        width: 500
+        height: 520
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,92 +258,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1fbeffc7a2bb494db79d87792f4f32e
-      internalID: 20281209
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Los spritesdelpersonaje_8
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1.3333359
-        width: 91.75
-        height: 100.666664
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8fbfc082cd093e645aa28431d0d9630f
-      internalID: -556536048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Los spritesdelpersonaje_9
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 1.3333359
-        width: 91.75
-        height: 100.666664
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2810346d7fcaa7d40a3ba198f2fd873c
-      internalID: 1219301690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Los spritesdelpersonaje_10
-      rect:
-        serializedVersion: 2
-        x: 182
-        y: 1.3333359
-        width: 91.75
-        height: 100.666664
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 681300b7c26084347a8e14ddd9e42612
-      internalID: -567168988
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Los spritesdelpersonaje_11
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 1.3333359
-        width: 91.75
-        height: 100.666664
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 862e6b795eca754458c4155bf7a68f9c
-      internalID: -858984157
+      spriteID: 1d661be6833ee7f4e80e2ac200e88ddb
+      internalID: -1560576349
       vertices: []
       indices: 
       edges: []
@@ -359,18 +275,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Los spritesdelpersonaje_0: 711295310
-      Los spritesdelpersonaje_1: 1369389080
-      Los spritesdelpersonaje_10: -567168988
-      Los spritesdelpersonaje_11: -858984157
-      Los spritesdelpersonaje_2: -1499807342
-      Los spritesdelpersonaje_3: 25262978
-      Los spritesdelpersonaje_4: 777237274
-      Los spritesdelpersonaje_5: -1239071291
-      Los spritesdelpersonaje_6: 378272837
-      Los spritesdelpersonaje_7: 20281209
-      Los spritesdelpersonaje_8: -556536048
-      Los spritesdelpersonaje_9: 1219301690
+      Villano Urano_page-0001-Photoroom_0: -1302716138
+      Villano Urano_page-0001-Photoroom_1: -470455570
+      Villano Urano_page-0001-Photoroom_2: 1851041327
+      Villano Urano_page-0001-Photoroom_3: 1770688141
+      Villano Urano_page-0001-Photoroom_4: -1281238981
+      Villano Urano_page-0001-Photoroom_5: -934616856
+      Villano Urano_page-0001-Photoroom_6: 1497931303
+      Villano Urano_page-0001-Photoroom_7: -1560576349
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
