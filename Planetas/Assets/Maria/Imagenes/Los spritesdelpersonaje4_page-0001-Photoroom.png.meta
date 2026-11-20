@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 8d357db269beee04ca939d134f352593
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Los spritesdelpersonaje4_page-0001-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 419
+        width: 106
+        height: 209
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e15685f9bd9994fbc9308b02d88d11
+      internalID: 726712960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Los spritesdelpersonaje4_page-0001-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 419
+        width: 111
+        height: 209
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b336ae9f222e7458c10fdbe1dee104
+      internalID: -157939310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Los spritesdelpersonaje4_page-0001-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 419
+        width: 140
+        height: 209
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f25950259173fd4b979f59d40e63a83
+      internalID: -255038521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Los spritesdelpersonaje4_page-0001-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 419
+        width: 140
+        height: 209
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb9128d77e12a84aa15fd2be163b778
+      internalID: -1619940681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Los spritesdelpersonaje4_page-0001-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 136
+        height: 207
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a066b899b703bb548a43d84038167363
+      internalID: 1126829098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Los spritesdelpersonaje4_page-0001-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 211
+        width: 150
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8e9b73eb7634a4aa5cd22347c20336
+      internalID: -90694439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Los spritesdelpersonaje4_page-0001-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 212
+        width: 148
+        height: 207
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16286afb9b058df4fa8a470ac06eae7f
+      internalID: 1686881251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Los spritesdelpersonaje4_page-0001-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 134
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65124271d36c44940bdd3df5b6b09b2c
+      internalID: -2095481312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Los spritesdelpersonaje4_page-0001-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 0
+        width: 97
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c78fd4008e50d84792fc12d7c313f74
+      internalID: 1642020501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Los spritesdelpersonaje4_page-0001-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 131
+        height: 212
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07973255d859bac45ab6e6e98da1049d
+      internalID: 1489821140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Los spritesdelpersonaje4_page-0001-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 212
+        width: 141
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f091bb5a7b43c49ad4294fc0ee6a5d
+      internalID: -2109568998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Los spritesdelpersonaje4_page-0001-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 129
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0312c7e7faf174d41b4636c3a93f6534
+      internalID: 446819168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Los spritesdelpersonaje4_page-0001-Photoroom_0: 726712960
+      Los spritesdelpersonaje4_page-0001-Photoroom_1: -157939310
+      Los spritesdelpersonaje4_page-0001-Photoroom_10: -2109568998
+      Los spritesdelpersonaje4_page-0001-Photoroom_11: 446819168
+      Los spritesdelpersonaje4_page-0001-Photoroom_2: -255038521
+      Los spritesdelpersonaje4_page-0001-Photoroom_3: -1619940681
+      Los spritesdelpersonaje4_page-0001-Photoroom_4: 1126829098
+      Los spritesdelpersonaje4_page-0001-Photoroom_5: -90694439
+      Los spritesdelpersonaje4_page-0001-Photoroom_6: 1686881251
+      Los spritesdelpersonaje4_page-0001-Photoroom_7: -2095481312
+      Los spritesdelpersonaje4_page-0001-Photoroom_8: 1642020501
+      Los spritesdelpersonaje4_page-0001-Photoroom_9: 1489821140
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
