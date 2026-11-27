@@ -231,8 +231,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 250.18, y: -35.061}
-  m_SizeDelta: {x: 479.2711, y: 51.6045}
+  m_AnchoredPosition: {x: 250.71698, y: -35.06106}
+  m_SizeDelta: {x: 488.9372, y: 55.9006}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &129600984
 MonoBehaviour:
@@ -254,14 +254,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
-  m_Type: 0
+  m_Sprite: {fileID: 21300000, guid: 441d63cc53121854e98dfc5e26e9031d, type: 3}
+  m_Type: 3
   m_PreserveAspect: 0
   m_FillCenter: 1
-  m_FillMethod: 4
+  m_FillMethod: 0
   m_FillAmount: 1
   m_FillClockwise: 1
-  m_FillOrigin: 0
+  m_FillOrigin: 1
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
 --- !u!222 &129600985
@@ -389,8 +389,9 @@ GameObject:
   - component: {fileID: 638782451}
   - component: {fileID: 638782453}
   - component: {fileID: 638782452}
+  - component: {fileID: 638782454}
   m_Layer: 5
-  m_Name: Image
+  m_Name: Lavida
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -429,7 +430,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.6792453, g: 0, b: 0.2869226, a: 1}
+  m_Color: {r: 0.9811321, g: 0.8746885, b: 0.91960406, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -454,6 +455,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 638782450}
   m_CullTransparentMesh: 1
+--- !u!114 &638782454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 638782450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a404c0ef2db72554b8638e2daccb0259, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1434536961
 GameObject:
   m_ObjectHideFlags: 0
