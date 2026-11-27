@@ -467,6 +467,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a404c0ef2db72554b8638e2daccb0259, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rellenoBarraVida: {fileID: 129600984}
 --- !u!1 &1434536961
 GameObject:
   m_ObjectHideFlags: 0
